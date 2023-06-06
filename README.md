@@ -3,7 +3,7 @@
 Relation between Air Pollution and Socio-economic status and the Diagnosis of Epilepsy
 
 ## Background
-There is an increasing, albeit inconsistent, evidence base suggesting that air pollution can contribute to neurological disorders in adults, such as Parkinson’s Disease and Amyotrophic Lateral Sclerosis. The influence of exposure to air pollution on the risk of developing neurological disorders in children has not yet been extensively investigated. The purpose of the study to which this GitHub repository belong is to examine the association between ambient air pollution and the diagnosis of epilepsy in Dutch children (N=1,143: 406 children with epilepsy and 737 children without epilepsy).
+There is an increasing, albeit inconsistent, evidence base suggesting that air pollution can contribute to neurological disorders in adults, such as Parkinson’s Disease and Amyotrophic Lateral Sclerosis. The influence of exposure to air pollution on the risk of developing neurological disorders in children has not yet been extensively investigated. The purpose of the study to which this GitHub repository belongs is to examine the association between ambient air pollution and the diagnosis of epilepsy in Dutch children (N=1,143: 406 children with epilepsy and 737 children without epilepsy).
 
 ## Description
 This repository only contains the R scripts used for the data analysis of the project.
