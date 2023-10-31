@@ -10,7 +10,7 @@ This repository only contains the R scripts used for the data analysis of the pr
 
 ## Prerequisites
 The scripts require:
-* The R statistical software with the packages [sp](https://cran.r-project.org/web/packages/sp/index.html), [rgdal](https://cran.r-project.org/web/packages/rgdal/index.html), and [sf](https://cran.r-project.org/web/packages/sf/index.html) installed. 
+* The R statistical software with the packages [sp](https://cran.r-project.org/web/packages/sp/index.html), [rgdal](https://cran.r-project.org/web/packages/rgdal/index.html), [sf](https://cran.r-project.org/web/packages/sf/index.html), and [Hmisc](https://cran.r-project.org/web/packages/Hmisc/index.html) installed. 
 
 ## License
 This project is licensed - see the [LICENSE](https://github.com/trudeslinger/epilepsy_biomarker_simulations/blob/main/LICENSE) file for details.
